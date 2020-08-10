@@ -19,3 +19,12 @@ rabbitmq: 15672<br/>
 [springboot整合P6spy](https://www.jianshu.com/p/42c35b320e84)<br/>
 [监控和剖析数据库操作 -- P6Spy、SQL Profiler、IronTrack SQL 使用简介](https://www.ibm.com/developerworks/cn/java/j-lo-p6spy/index.html)<br/>
 
+<hr/>
+
+#### **网络通讯框架：t-io**
+[t-io gitee](https://gitee.com/tywo45/t-io)<br/>
+[t-io github](https://github.com/tywo45/t-io)<br/>
+[开源项目t-io](https://www.cnblogs.com/free-wings/p/9920771.html)<br/>
+[开源项目t-io解读](https://shimo.im/docs/tHwJJcvKl2AIiCZD/read)<br/>
+[t-io框架官方文档](https://www.t-io.org/doc/tio/87?pageNumber=1)<br/>
+[通讯框架 t-io 学习——给初学者的Demo：ShowCase设计分析](https://www.cnblogs.com/panzi/p/7814062.html)<br/>
